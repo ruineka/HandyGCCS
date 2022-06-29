@@ -1,2 +1,2 @@
-# Aya Neo Fixes Controller
+# Handy Con
 KERNEL=="event*", SUBSYSTEM=="input", ATTRS{name}=="Handheld Controller", MODE="0660", TAG+="uaccess", ENV{ID_INPUT_JOYSTICK}="1"

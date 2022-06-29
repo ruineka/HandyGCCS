@@ -1,4 +1,4 @@
-#!/sbin/python3
+#!/bin/python3
 # Capture System
 # Copyright 2022 Derek J. Clark <derekjohn dot clark at gmail dot com>
 # Produces an output file that caputres relevant system data that can be uploaded

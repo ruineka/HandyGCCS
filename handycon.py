@@ -1,4 +1,4 @@
-#!/sbin/python3
+#!/bin/python3
 # HandyGCCS HandyCon
 # Copyright 2022 Derek J. Clark <derekjohn dot clark at gmail dot com>
 # This will create a virtual UInput device and pull data from the built-in
